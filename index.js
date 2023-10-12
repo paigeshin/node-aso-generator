@@ -205,6 +205,20 @@ const existingKeywords = [
   "depression",
   "girlhood",
   "help",
+  "healing",
+  "hypnosis",
+  "for",
+  "losing",
+  "weight",
+  "innertune",
+  "inspiration",
+  "law",
+  "of",
+  "attraction",
+  "love",
+  "quotes",
+  "manifest",
+  "app",
 ];
 
 const result = extractKeywords(
